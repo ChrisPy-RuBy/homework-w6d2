@@ -1,7 +1,7 @@
-public class digitalCamera {
+public class DigitalCamera implements Printable {
 
   public String details() {
-    return "Nikon 34T, Noise reduction filter, Hi-resolution"
+    return "Nikon 34T, Noise reduction filter, Hi-resolution";
   }
 
 }
